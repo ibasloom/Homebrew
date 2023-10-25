@@ -11,3 +11,6 @@ Developers use Homebrew to install various software packages on a Mac. You'll ne
 [Install Homebrew](https://github.com/ibasloom/Homebrew/blob/main/Other/Install_Homebrew.md)
 
 [Uninstall Homebrew](https://github.com/ibasloom/Homebrew/blob/main/Other/Uninstall_Homebrew.md)
+
+
+[Troubleshooting Homebrew](https://github.com/ibasloom/Homebrew/blob/main/Other/troubleshooting_Homebrew.md)

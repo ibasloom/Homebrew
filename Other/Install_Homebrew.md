@@ -1,7 +1,7 @@
-Homebrew on your Mac. Homebrew is a package manager that makes it easy to install software and tools on your computer.
+#### Homebrew on your Mac. Homebrew is a package manager that makes it easy to install software and tools on your computer.
 
-Step 1: Open Terminal
-
+### Step 1: Open Terminal
+------------------------
 Let's start by opening a special program on your Mac called "Terminal". It's like a magic box where you can give your computer special instructions.
 
 

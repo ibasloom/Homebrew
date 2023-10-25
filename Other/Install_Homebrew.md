@@ -29,4 +29,17 @@ Open Terminal With Other Way
 2. Go back to the Terminal, and right-click with your mouse or trackpad. You'll see an option that says "Paste". Click on it.
 3. After you've pasted the command, press the "Return" key on your keyboard. This will tell your computer to start the installation process.
 
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Step 3: Follow the Prompts
+
+Now, your computer will ask you some questions. It's just checking if it's okay to install Homebrew.
+
+1. When it asks you, just press the "Return" key again.
+
+
+
 ![](https://github.com/ibasloom/Homebrew/blob/main/Img/3.png)
+
+2. It might also ask for your computer password. This is the same password you use to unlock your computer. Type it in (don't worry, it won't show up on the screen) and press "Return".
+
+![](https://github.com/ibasloom/Homebrew/blob/main/Img/4.png)
+

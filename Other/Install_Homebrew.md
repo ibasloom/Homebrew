@@ -28,4 +28,5 @@ Open Terminal With Other Way
 
 2. Go back to the Terminal, and right-click with your mouse or trackpad. You'll see an option that says "Paste". Click on it.
 3. After you've pasted the command, press the "Return" key on your keyboard. This will tell your computer to start the installation process.
-   
+
+![](https://github.com/ibasloom/Homebrew/blob/main/Img/3.png)

@@ -20,3 +20,12 @@ Open Terminal With Other Way
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Step 2: Copy and Paste the Install Command
 ------------------------
 
+1. Copy this command:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+2. Go back to the Terminal, and right-click with your mouse or trackpad. You'll see an option that says "Paste". Click on it.
+3. After you've pasted the command, press the "Return" key on your keyboard. This will tell your computer to start the installation process.
+   

@@ -1,6 +1,6 @@
 #### Homebrew on your Mac. Homebrew is a package manager that makes it easy to install software and tools on your computer.
 
-### Step 1: Open Terminal
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Step 1: Open Terminal
 ------------------------
 Let's start by opening a special program on your Mac called "Terminal". It's like a magic box where you can give your computer special instructions.
 
@@ -15,3 +15,8 @@ Let's start by opening a special program on your Mac called "Terminal". It's lik
 Open Terminal With Other Way
 
 ![](https://github.com/ibasloom/Homebrew/blob/main/Img/2.png)
+
+
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Step 2: Copy and Paste the Install Command
+------------------------
+

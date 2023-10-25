@@ -7,3 +7,7 @@
 
 Developers use Homebrew to install various software packages on a Mac. You'll need Xcode Command Line Tools as a prerequisite, but if you don't have it, Homebrew will install it. Tip: If you did not use a password to log in to your Mac (that is, if your password is blank), you cannot install Homebrew.
 
+
+[Install Homebrew](https://github.com/ibasloom/Homebrew/blob/main/Other/Install_Homebrew.md)
+
+[Uninstall Homebrew](https://github.com/ibasloom/Homebrew/blob/main/Other/Uninstall_Homebrew.md)

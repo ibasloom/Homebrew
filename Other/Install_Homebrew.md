@@ -12,3 +12,6 @@ Let's start by opening a special program on your Mac called "Terminal". It's lik
 ![](https://github.com/ibasloom/Homebrew/blob/main/Img/1.png)
 
 
+Open Terminal With Other Way
+
+![](https://github.com/ibasloom/Homebrew/blob/main/Img/2.png)
